@@ -1,2 +1,3 @@
 git clone https://github.com/shyamashreeghorai24/git-Friend-Repo.git
 git config --global --add safe.directory "D:/USB Drive/Git_Github/friend_repo/git-Friend-Repo"
+git pull origin main
